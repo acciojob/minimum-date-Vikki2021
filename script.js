@@ -1,5 +1,9 @@
 function minDate(dates) {
   //write you code here
+	let ans = Math.min(...dates);
+	// console.log(ans);
+	return ans;
+	
 }
 
 // Do not change the code
